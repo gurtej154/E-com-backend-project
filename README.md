@@ -62,10 +62,6 @@ The following gif's demonstrate how each capability of the project works within 
 
 ![Walkthrough](/assets/13-orm-homework-demo-01.gif)
 
-![Walkthrough](/assets/13-orm-homework-demo-02.gif)
-
-![Walkthrough](/assets/13-orm-homework-demo-03.gif)
-
 ---
 
 ## Walkthrough
