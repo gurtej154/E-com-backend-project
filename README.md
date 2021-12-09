@@ -9,7 +9,7 @@
 - [Description](#description)
 - [Installation](#installation)
 - [Contributing](#contributing)
-- [User-Interface](#User-Interface)
+- [U/I](#U/I)
 - [Walkthrough](#walkthrough)
 - [Questions](#questions)
 - [License](#license)
@@ -56,7 +56,7 @@ git@github.com:gurtej154/Employee-management-system.git
 
 ---
 
-## User-Interface
+## U/I
 
 The following gif's demonstrate how each capability of the project works within insomina
 
