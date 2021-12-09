@@ -60,7 +60,11 @@ git@github.com:gurtej154/Employee-management-system.git
 
 The following gif's demonstrate how each capability of the project works within insomina
 
-![Walkthrough](/assets/13-orm-homework-demo-01.gif)
+![demo1](/assets/13-orm-homework-demo-01.gif)
+
+![demo2](/assets/13-orm-homework-demo-02.gif)
+
+![demo3](/assets/13-orm-homework-demo-03.gif)
 
 ---
 
