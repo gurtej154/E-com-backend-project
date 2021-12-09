@@ -60,13 +60,11 @@ git@github.com:gurtej154/Employee-management-system.git
 
 The following gif's demonstrate how each capability of the project works within insomina
 
-![gif](/assets/demo-1.gif)
+![gif](/assets\demo-1.gif)
 
-![gif](/assets/demo-2.gif)
+![gif](/assets\demo-2.gif)
 
-![gif](/assets/demo-3.gif)
-
-![image](/assets/image.png)
+![gif](/assets\demo-3.gif)
 
 ---
 
