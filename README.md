@@ -66,6 +66,8 @@ The following gif's demonstrate how each capability of the project works within 
 
 ![gif](/assets/demo-3.gif)
 
+![image](/assets/image.png)
+
 ---
 
 ## Walkthrough
