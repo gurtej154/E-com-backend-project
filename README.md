@@ -60,6 +60,8 @@ git@github.com:gurtej154/Employee-management-system.git
 
 The following gif's demonstrate how each capability of the project works within insomina
 
+![demo](/assets/demo-1.gif)
+
 ---
 
 ## Walkthrough
@@ -67,8 +69,6 @@ The following gif's demonstrate how each capability of the project works within 
 This walkthrough video shows the how the backend of the E-commerce project is initialized and implemented within the terminal and insomina
 
 To access the MP4 version of the recording click on the following link [Walkthrough](https://drive.google.com/file/d/1ZpdXC2uVnZJOcujO9SGl3kq9zzN_EONW/view?usp=sharing)
-
-![demo1](/assets/demo-1.gif)
 
 ---
 
